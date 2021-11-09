@@ -1,5 +1,0 @@
-$ katacoda scenarios:create
-$ git add .
-$ git commit -m "New scenario"
-$ git push origin master
-
